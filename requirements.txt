@@ -1,0 +1,9 @@
+azure-cosmos
+azure-storage-blob
+gradio
+python-dotenv
+numpy
+transformers
+torch
+ultralytics
+azure-functions
